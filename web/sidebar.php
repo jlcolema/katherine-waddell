@@ -1,1 +1,0 @@
-<?php tf_get_sidebar(); ?>
